@@ -1,11 +1,10 @@
-How to extract Dofus 2 musics
+Extraire les musiques et sons de Dofus 2 depuis les fichier d2p.
 ===========
 
-Python 3.x modules to extract Dofus p2d files to mp3.
+> il vous faut python 3.x.x sur votre installation. [Python 3](https://www.python.org/downloads/)
+>J'utilise une bibiothèque que vous pouvez retrouver ici [here](https://github.com/lMagickl/Dofus-Tools-SWL-D2P)
 
-> I use the lib pydofus which you find find [here](https://github.com/lMagickl/Dofus-Tools-SWL-D2P)
-
-Usage
+Utilisation
 -----
 
 `python main.py`
