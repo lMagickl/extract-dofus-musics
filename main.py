@@ -1,3 +1,5 @@
+# coding=utf-8
+
 from pydofus.d2p import D2PReader, InvalidD2PFile
 import os
 
